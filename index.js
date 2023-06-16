@@ -1,7 +1,7 @@
-// Write your solution here!
+
 var cats = ["Milo", "Otis", "Garfield"];
 
-// let anotherCat = [...cats];
+
 function  destructivelyAppendCat(name){
     console.log(cats.push("Ralph"));
     return cats;
